@@ -61,6 +61,7 @@
         android:textColor="@color/default_action_color"
         android:textSize="14sp"
         android:textStyle="bold"
+		android:padding="6sp"
         android:visibility="gone" />
 
 </LinearLayout>
